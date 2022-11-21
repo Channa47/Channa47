@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing](https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing)
 
-- ⚡ Fun fact **Some times when i close my eyes i can see nothing**
+- ⚡ Fun fact **I do get solution for bugs in my sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
