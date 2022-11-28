@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Channakeshava N</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<p>I am always looking for an opportunity to do better and achieve greatness. </p>
 
 <img align="right" alt="gif" width="300" src="https://www.slnsoftwares.com/images/main-slider/webdesigngif.gif" >
 
