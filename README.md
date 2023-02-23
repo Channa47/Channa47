@@ -3,7 +3,11 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 <p align="center">I am always looking for an opportunity to do better and achieve greatness. </p>
 
-<img align="right" alt="gif" width="300" src="https://www.slnsoftwares.com/images/main-slider/webdesigngif.gif" >
+<!-- <img align="right" alt="gif" width="300" src="https://www.slnsoftwares.com/images/main-slider/webdesigngif.gif" >  originaml--> 
+<!-- https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif -->
+<img align="right" alt="gif" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
+<!-- https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg -->
+<!-- <img align="right" alt="gif" height="1000" width="1000" src="https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg" > -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=channa47" alt="channa47" /></a> </p>
 
