@@ -7,7 +7,7 @@
 <!-- https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif -->
 <!-- <img align="center"  alt="gif" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" > -->
 <p align="center">
-  <img height='450' src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
+  <img width='100%' src="https://cdn-images.zety.com/pages/web_developer_cover_letter_example_1.jpg" />
 </p>
 </br>
 <!-- https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg -->
