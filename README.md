@@ -5,7 +5,11 @@
 
 <!-- <img align="right" alt="gif" width="300" src="https://www.slnsoftwares.com/images/main-slider/webdesigngif.gif" >  originaml--> 
 <!-- https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif -->
-<img align="center" alt="gif" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" >
+<!-- <img align="center"  alt="gif" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" > -->
+<p align="center">
+  <img height='450' src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
+</p>
+</br>
 <!-- https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg -->
 <!-- <img align="right" alt="gif" height="1000" width="1000" src="https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg" > -->
 
