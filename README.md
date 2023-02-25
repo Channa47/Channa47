@@ -7,7 +7,8 @@
 <!-- https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif -->
 <!-- <img align="center"  alt="gif" width="300" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" > -->
 <p align="center">
-  <img width='100%' src="https://cdn-images.zety.com/pages/web_developer_cover_letter_example_1.jpg" />
+<!--   <img width='100%' src="https://cdn-images.zety.com/pages/web_developer_cover_letter_example_1.jpg" /> -->
+  <img width='100%' height='300vh' display="block" object-fit"cover" opacity=1 src='https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?ixlib=rb-1.2.1&q=80&cs=tinysrgb&fm=jpg&crop=entropy&w=3600'/>
 </p>
 </br>
 <!-- https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg -->
