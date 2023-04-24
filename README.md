@@ -17,7 +17,7 @@
 
 - 🔭 I’m I’m currently pursuing Full Stack **Web Development**
 - 🌱 I’m currently learning **Backend**
-- 👨‍💻 Checkout my [Portfolio](https://Channa47.github.io/ )
+- 👨‍💻 Checkout my [Portfolio](https://Channa47.github.io/)
 - 📋 Checkout my [Resume](https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing)
 - 📧 How to reach me,keshavchanna47@gmail.com
 - ⚡ Fun fact **i am funny 	:innocent:**
