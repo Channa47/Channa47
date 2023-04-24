@@ -25,7 +25,7 @@
 <h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shivang-kumar-272488233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Channa Keshavar"  height="35" width="70" align="center" /></a>
+<a href="https://www.linkedin.com/in/channakeshava-n-a17aa9215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Channa Keshavar"  height="35" width="70" align="center" /></a>
 </p>
 
 
