@@ -20,10 +20,10 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://channa47.github.io/]() -->
 - 👨‍💻 Checkout my [Portfolio](https://channa47.github.io/)
+- 📋 Checkout my [Resume](https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing)
+- 📧 How to reach me,keshavachanna47@gmail.com
 
-- 📫 How to reach me **keshavachanna47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing](https://drive.google.com/file/d/1pateOmpHP03hayVqPCkBwa_lJ0lTwSwO/view?usp=sharing)
 
 - ⚡ Fun fact **I do get solution for bugs in my sleep**
 
